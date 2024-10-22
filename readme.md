@@ -7,4 +7,7 @@
 <hr>
 
 
-<img align="left" alt="python" src="python5.png" height="30" width="40">
+<img align="left" alt="python" src="python5.png" height="30" width="30">
+<img align="left" alt="javascript" src="JS.png" height="30" width="30">
+<img align="left" alt="html" src="htmlogo.png" height="30" width="30">
+<img align="left" alt="html" src="css.png" height="30" width="30">
