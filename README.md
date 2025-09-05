@@ -2,7 +2,7 @@
 
 ## Prazer! 👋 Me chamo Heberton Julio
 
-° 💻 Conhecido como <strong>Heberton</strong>
+° 💻 Conhecido como <strong>Heberton ou Julio</strong>
 
 ° 💻 Estudante de Ciência da Computação na <strong>UNICID - Universidade da Cidade de São Paulo</strong>, atualmente no 4º semestre.
 
