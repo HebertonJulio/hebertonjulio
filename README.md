@@ -6,9 +6,9 @@
 
 ° 💻 Estudante de Ciência da Computação na <strong>UNICID - Universidade da Cidade de São Paulo</strong>, atualmente no 4º semestre.
 
-° 🎓 Também estudando no <strong>Instituto PROA</strong>.
+° 🎓 Ex-Proano no <strong>Instituto PROA</strong>.
 
-° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
+° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>JavaScript</strong>, <strong>Java</strong>, <strong>MySQL</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
 
 <div>
  <hr>
