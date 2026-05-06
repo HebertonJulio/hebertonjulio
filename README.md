@@ -2,13 +2,9 @@
 
 ## Prazer! 👋 Me chamo Heberton Julio
 
-° 💻 Conhecido como <strong>Heberton ou Julio</strong>
-
 ° 💻 Estudante de Ciência da Computação na <strong>UNICID - Universidade da Cidade de São Paulo</strong>, atualmente no 5º semestre.
 
 ° 🎓 Ex-Proano no <strong>Instituto PROA</strong>.
-
-° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>JavaScript</strong>, <strong>Java</strong>, <strong>MySQL</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
 
 <div>
  <hr>
