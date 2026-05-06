@@ -4,7 +4,7 @@
 
 ° 💻 Conhecido como <strong>Heberton ou Julio</strong>
 
-° 💻 Estudante de Ciência da Computação na <strong>UNICID - Universidade da Cidade de São Paulo</strong>, atualmente no 4º semestre.
+° 💻 Estudante de Ciência da Computação na <strong>UNICID - Universidade da Cidade de São Paulo</strong>, atualmente no 5º semestre.
 
 ° 🎓 Ex-Proano no <strong>Instituto PROA</strong>.
 
